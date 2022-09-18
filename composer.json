@@ -17,12 +17,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Mkioschi\\Enums\\": "src/Enums/"
+      "Mkioschi\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Test\\": "tests/"
+      "Mkioschi\\Tests\\": "tests/"
     }
   }
 }

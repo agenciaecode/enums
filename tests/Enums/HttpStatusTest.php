@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Test\Enums;
+namespace Mkioschi\Tests\Enums;
 
 use Mkioschi\Enums\HttpStatus;
 use PHPUnit\Framework\TestCase;
