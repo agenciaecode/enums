@@ -268,7 +268,7 @@ enum Country: string implements EnumContract
      * @param mixed $value
      * @return ?self
      */
-    public static function fromIfNotNull(mixed $value): ?self
+    public static function innFrom(mixed $value): ?self
     {
         if (is_null($value)) return null;
         return self::from($value);

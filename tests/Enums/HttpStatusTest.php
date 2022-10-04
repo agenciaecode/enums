@@ -12,6 +12,6 @@ class HttpStatusTest extends TestCase
         $noContentHttpStatus = HttpStatus::NO_CONTENT;
         $this->assertInstanceOf(HttpStatus::class, $noContentHttpStatus);
         $this->assertEquals(204, $noContentHttpStatus->value);
-        $this->assertEquals(null, HttpStatus::fromIfNotNull(null));
+        $this->assertEquals(null, HttpStatus::innFrom(null));
     }
 }

@@ -18,7 +18,7 @@ interface EnumContract
      * @param mixed $value
      * @return mixed
      */
-    public static function fromIfNotNull(mixed $value): mixed;
+    public static function innFrom(mixed $value): mixed;
 
     /**
      * @return string
