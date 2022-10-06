@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace Mkioschi\Tests\Enums;
+namespace Ecode\Tests\Enums;
 
-use Mkioschi\Enums\HttpMethod;
+use Ecode\Enums\HttpMethod;
 use PHPUnit\Framework\TestCase;
 
 class HttpMethodTest extends TestCase

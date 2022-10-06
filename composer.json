@@ -1,7 +1,7 @@
 {
-  "name": "mkioschi/enums",
+  "name": "agenciaecode/enums",
   "description": "Common enums for clean code PHP projects.",
-  "homepage": "https://github.com/mkioschi/enums",
+  "homepage": "https://github.com/agenciaecode/enums",
   "license": "MIT",
   "authors": [
     {
@@ -17,12 +17,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Mkioschi\\": "src/"
+      "Ecode\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Mkioschi\\Tests\\": "tests/"
+      "Ecode\\Tests\\": "tests/"
     }
   }
 }

@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Mkioschi\Enums;
+namespace Ecode\Enums;
 
 enum UriScheme: string implements EnumContract
 {

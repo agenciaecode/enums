@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace Mkioschi\Tests\Enums;
+namespace Ecode\Tests\Enums;
 
-use Mkioschi\Enums\UriScheme;
+use Ecode\Enums\UriScheme;
 use PHPUnit\Framework\TestCase;
 
 class UriSchemeTest extends TestCase

@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace Mkioschi\Tests\Enums;
+namespace Ecode\Tests\Enums;
 
-use Mkioschi\Enums\Country;
+use Ecode\Enums\Country;
 use PHPUnit\Framework\TestCase;
 
 class CountryTest extends TestCase
